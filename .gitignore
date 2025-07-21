@@ -1,0 +1,51 @@
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# VS Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider (JetBrains)
+.idea/
+*.sln.iml
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Logs / databases / misc
+*.log
+*.db
+*.mdb
+*.sqlite
+
+# Temporary or test artifacts
+*.bak
+*.tmp
+*.swp
+*.ncb
+
+# ReSharper / DotCover
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Entity Framework Migrations metadata (if any)
+Migrations/
