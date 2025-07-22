@@ -4,6 +4,8 @@ This repository is a curated collection of C# applications I built **entirely wi
 
 Each project is fully self-contained, documented, and focused on a specific concept. I’ve included clear code structure and `README.md` files in each folder explaining scope, features, and potential improvements.
 
+This is a similar repository to my ```manual-java-projects```
+
 ---
 
 ## 📂 Project List
